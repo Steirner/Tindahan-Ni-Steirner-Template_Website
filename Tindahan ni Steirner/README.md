@@ -1,6 +1,6 @@
 # 🎮 Tindahan ni Steirner - Blox Fruits E-commerce Website
 
-A full-featured e-commerce website for selling Blox Fruits items, game codes, and Robux with integrated payment processing (PayPal, GCash, Visa/Mastercard).
+A full-featured not fully e-commerce website for selling Blox Fruits items, game codes, and Robux with integrated payment processing GCash
 
 ## 🌟 Features
 
